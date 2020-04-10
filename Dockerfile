@@ -1,5 +1,5 @@
 FROM	\
-	oraclelinux:7.6    
+	centos:centos7
 ENV	\
 	FAHRPM="fahclient-7.5.1-1.x86_64.rpm"\
 	USER=Anonymous \
