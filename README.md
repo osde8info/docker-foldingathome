@@ -20,11 +20,10 @@ Why not join infraBuilder team : 236450
 
 ## How to generate a passkey :
 
-Go to : https://apps.foldingathome.org/getpasskey
+https://foldingathome.org/support/faq/points/passkey/
 
-*More information on https://foldingathome.org/support/faq/points/passkey/*
+https://apps.foldingathome.org/getpasskey
 
 ## Statistics
 
-Visit https://stats.foldingathome.org/donors
-
+https://stats.foldingathome.org/team/236450
